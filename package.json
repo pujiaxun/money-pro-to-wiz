@@ -7,5 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "pujiaxun <pujiaxun@gmail.com> (www.pujiaxun.com)",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "^2.0.10",
+    "date-fns": "^2.8.1"
+  }
 }
