@@ -1,3 +1,4 @@
 node_modules
 input/*.csv
-result/*.csv
+output/*.csv
+.vscode
