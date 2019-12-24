@@ -2,3 +2,4 @@ node_modules
 input/*.csv
 output/*.csv
 .vscode
+.DS_Store
