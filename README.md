@@ -11,4 +11,4 @@ Migrate CSV datas from Money Pro to MoneyWiz3.
 
 ## Tips
 
-This tool may be helpful to Chinese users, but not all users. Feel free to submit PRs or fork if you want to improve it.
+Feel free to submit PRs or fork it if you want to improve this tool.
